@@ -56,11 +56,5 @@ public class Main {
         }
     }
 
-        Language Spanish = new Language("Spanish", 500,"America","Subject-verb-Object");
-        Spanish.getInfo();
-        Language chontal = new Mayan("Chontal",900);
-        chontal.getInfo();
-        Language Burmese = new SinoTibetan("Burmese",800);
-        Burmese.getInfo();
     }
 }
